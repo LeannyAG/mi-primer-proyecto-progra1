@@ -1,0 +1,10 @@
+0905-25-3132.txt
+Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+aprendi a como fucionan las ramas, clonar repositorios,a usar git y nuevos comandos en git blash 
+
+ii. ¿Cómo fue la experiencia de trabajar en pareja? en esta oscasion trabaje de forma individual  ¿Encontraste algún
+conflicto? si encontre un conflicto aunque bastante comun peero lo tuve que fue que me tiraba error e investigue y resulta que tenia un espacio de mas 
+¿Cómo lo resolviste? colocando de nuevo lo solicitado de manera en que estuviera correcto 
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación? llevar el control de versiones, trabajar en equipo sin perder informacion 
